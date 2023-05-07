@@ -9,7 +9,6 @@ userdata/
 test1.py
 test2.py
 test3.py
-rclone.conf
 ext.txt
 dcw
 aria2_download.py
